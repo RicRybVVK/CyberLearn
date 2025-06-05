@@ -41,7 +41,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Responsive Watermark */}
+      {/* Watermark */}
       <div className="text-xs xs:text-sm text-gray-500 absolute bottom-4 left-4 sm:bottom-6 sm:left-6 md:bottom-8 md:left-8 lg:bottom-10 lg:left-10">
         Originalus darbas. R. Rybako baigiamojo darbo projektas
       </div>
