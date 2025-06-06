@@ -20,6 +20,7 @@ function SideBar() {
             icon:UserCircle,
             path:'/dashboard/profile'
         },
+
     ]
 
     const {totalCourse,setTotalCourse}=useContext(CourseCountContext);
@@ -56,7 +57,7 @@ function SideBar() {
                 </div>
             </div>
 
-            <div className='text-sm text-gray-500 absolute bottom-10 w-[85%]'>
+            <div className="text-xs xs:text-sm select-none text-gray-500 absolute bottom-10 w-[85%]">
                 Originalus darbas. R. Rybako baigiamojo darbo projektas
             </div>
     </div>
